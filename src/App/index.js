@@ -13,7 +13,6 @@ import { Modal } from '../Modal';
 import { TodoHeader } from '../TodoHeader';
 import {ChangeAlert} from '../ChangeAlert';
 
-
 function App() {
   const {
     error,
